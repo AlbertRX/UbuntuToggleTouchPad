@@ -1,0 +1,2 @@
+# UbunttuTouchPad
+Ubuntu 环境下通过脚本动态获取触控板ID控制触控板开关脚本
